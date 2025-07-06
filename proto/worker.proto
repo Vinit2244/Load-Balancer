@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+package worker;
+
+service Worker {
+    rpc Compute(ComputeRequest) returns (ComputeResponse) {}
+}
+
+message ComputeRequest {
+    int32 type = 1;
+    int32 n = 2;
+}
+
+message ComputeResponse {
+    int32 err_code = 1;
+    string msg = 2;
+    int32 result = 3;
+}

@@ -1,0 +1,495 @@
+2025-03-17 04:36:34,949 - INFO - Worker service definition file created
+2025-03-17 04:36:35,000 - INFO - Worker service registered with consul
+2025-03-17 04:36:35,006 - INFO - Worker 4 server started
+2025-03-17 04:36:35,015 - INFO - Woker 4 registered with Load Balancer
+2025-03-17 04:36:35,015 - INFO - Load Reporting thread started
+2025-03-17 04:36:36,026 - INFO - Load reported to Load Balancer
+2025-03-17 04:38:30,141 - INFO - Worker service definition file created
+2025-03-17 04:38:30,193 - INFO - Worker service registered with consul
+2025-03-17 04:38:30,199 - INFO - Worker 4 server started
+2025-03-17 04:38:30,213 - INFO - Woker 4 registered with Load Balancer
+2025-03-17 04:38:30,213 - INFO - Load Reporting thread started
+2025-03-17 04:38:31,228 - INFO - Load reported to Load Balancer
+2025-03-17 04:38:32,670 - INFO - Received Compute request of type 1 with n = 50000000
+2025-03-17 04:38:32,819 - INFO - Received Compute request of type 1 with n = 50000000
+2025-03-17 04:38:33,262 - INFO - Load reported to Load Balancer
+2025-03-17 04:38:35,391 - INFO - Load reported to Load Balancer
+2025-03-17 04:38:37,546 - INFO - Load reported to Load Balancer
+2025-03-17 04:38:38,125 - INFO - Received Compute request of type 1 with n = 50000000
+2025-03-17 04:38:38,421 - INFO - Received Compute request of type 1 with n = 50000000
+2025-03-17 04:38:39,798 - INFO - Load reported to Load Balancer
+2025-03-17 04:38:41,952 - INFO - Load reported to Load Balancer
+2025-03-17 04:38:43,650 - INFO - Received Compute request of type 1 with n = 50000000
+2025-03-17 04:38:44,020 - INFO - Received Compute request of type 1 with n = 50000000
+2025-03-17 04:38:44,105 - INFO - Load reported to Load Balancer
+2025-03-17 04:38:46,293 - INFO - Load reported to Load Balancer
+2025-03-17 04:38:48,437 - INFO - Load reported to Load Balancer
+2025-03-17 04:38:49,190 - INFO - Received Compute request of type 1 with n = 50000000
+2025-03-17 04:38:49,637 - INFO - Received Compute request of type 1 with n = 50000000
+2025-03-17 04:38:50,568 - INFO - Load reported to Load Balancer
+2025-03-17 04:38:52,787 - INFO - Load reported to Load Balancer
+2025-03-17 04:38:54,983 - INFO - Load reported to Load Balancer
+2025-03-17 04:38:55,279 - INFO - Received Compute request of type 1 with n = 50000000
+2025-03-17 04:38:55,458 - INFO - Received Compute request of type 1 with n = 50000000
+2025-03-17 04:38:57,180 - INFO - Load reported to Load Balancer
+2025-03-17 04:41:32,691 - INFO - Worker service definition file created
+2025-03-17 04:41:32,740 - INFO - Worker service registered with consul
+2025-03-17 04:41:32,746 - INFO - Worker 4 server started
+2025-03-17 04:41:32,758 - INFO - Woker 4 registered with Load Balancer
+2025-03-17 04:41:32,758 - INFO - Load Reporting thread started
+2025-03-17 04:41:33,770 - INFO - Load reported to Load Balancer
+2025-03-17 04:41:35,274 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:41:35,342 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:41:35,398 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:41:35,455 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:41:35,513 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:41:35,578 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:41:35,636 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:41:35,696 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:41:35,754 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:41:35,796 - INFO - Load reported to Load Balancer
+2025-03-17 04:41:35,811 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:41:35,870 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:41:35,929 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:41:35,987 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:41:36,044 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:41:36,102 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:41:36,158 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:41:36,218 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:41:36,274 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:41:36,333 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:41:36,391 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:41:36,447 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:41:36,502 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:41:36,558 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:41:36,616 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:41:36,674 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:41:36,730 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:41:36,790 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:41:36,848 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:41:36,904 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:41:36,962 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:41:37,018 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:41:37,852 - INFO - Load reported to Load Balancer
+2025-03-17 04:43:57,487 - INFO - Worker service definition file created
+2025-03-17 04:43:57,539 - INFO - Worker service registered with consul
+2025-03-17 04:43:57,544 - INFO - Worker 4 server started
+2025-03-17 04:43:57,553 - INFO - Woker 4 registered with Load Balancer
+2025-03-17 04:43:57,553 - INFO - Load Reporting thread started
+2025-03-17 04:43:58,566 - INFO - Load reported to Load Balancer
+2025-03-17 04:44:00,057 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:44:00,083 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:44:00,105 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:44:00,111 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:44:00,115 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:44:00,120 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:44:00,123 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:44:00,127 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:44:00,128 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:44:00,131 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:44:00,135 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:44:00,138 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:44:00,142 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:44:00,143 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:44:00,147 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:44:00,151 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:44:00,154 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:44:00,158 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:44:00,160 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:44:00,163 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:44:00,167 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:44:00,170 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:44:00,175 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:44:00,178 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:44:00,182 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:44:00,186 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:44:00,188 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:44:00,191 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:44:00,195 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:44:00,199 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:44:00,202 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:44:00,203 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:44:00,207 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:45:30,951 - INFO - Worker service definition file created
+2025-03-17 04:45:31,012 - INFO - Worker service registered with consul
+2025-03-17 04:45:31,018 - INFO - Worker 4 server started
+2025-03-17 04:45:31,028 - INFO - Woker 4 registered with Load Balancer
+2025-03-17 04:45:31,028 - INFO - Load Reporting thread started
+2025-03-17 04:45:32,041 - INFO - Load reported to Load Balancer
+2025-03-17 04:45:33,542 - INFO - Received Compute request of type 1 with n = 50000000
+2025-03-17 04:45:33,620 - INFO - Received Compute request of type 1 with n = 50000000
+2025-03-17 04:45:33,650 - INFO - Received Compute request of type 1 with n = 50000000
+2025-03-17 04:45:33,723 - INFO - Received Compute request of type 1 with n = 50000000
+2025-03-17 04:45:33,723 - INFO - Received Compute request of type 1 with n = 50000000
+2025-03-17 04:45:34,117 - INFO - Load reported to Load Balancer
+2025-03-17 04:45:36,718 - INFO - Load reported to Load Balancer
+2025-03-17 04:45:39,267 - INFO - Load reported to Load Balancer
+2025-03-17 04:45:42,094 - INFO - Load reported to Load Balancer
+2025-03-17 04:45:44,724 - INFO - Load reported to Load Balancer
+2025-03-17 04:45:47,108 - INFO - Load reported to Load Balancer
+2025-03-17 04:45:49,112 - INFO - Load reported to Load Balancer
+2025-03-17 04:45:51,121 - INFO - Load reported to Load Balancer
+2025-03-17 04:45:53,126 - INFO - Load reported to Load Balancer
+2025-03-17 04:45:55,137 - INFO - Load reported to Load Balancer
+2025-03-17 04:45:57,146 - INFO - Load reported to Load Balancer
+2025-03-17 04:45:58,444 - INFO - Received Compute request of type 1 with n = 50000000
+2025-03-17 04:45:58,917 - INFO - Received Compute request of type 1 with n = 50000000
+2025-03-17 04:45:59,183 - INFO - Received Compute request of type 1 with n = 50000000
+2025-03-17 04:45:59,201 - INFO - Load reported to Load Balancer
+2025-03-17 04:46:01,539 - INFO - Load reported to Load Balancer
+2025-03-17 04:46:03,877 - INFO - Load reported to Load Balancer
+2025-03-17 04:46:44,188 - INFO - Worker service definition file created
+2025-03-17 04:46:44,237 - INFO - Worker service registered with consul
+2025-03-17 04:46:44,243 - INFO - Worker 4 server started
+2025-03-17 04:46:44,254 - INFO - Woker 4 registered with Load Balancer
+2025-03-17 04:46:44,254 - INFO - Load Reporting thread started
+2025-03-17 04:46:45,265 - INFO - Load reported to Load Balancer
+2025-03-17 04:46:47,291 - INFO - Load reported to Load Balancer
+2025-03-17 04:46:49,298 - INFO - Load reported to Load Balancer
+2025-03-17 04:46:49,334 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:46:49,388 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:46:49,420 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:46:49,455 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:46:49,534 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:46:49,567 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:46:49,641 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:46:49,681 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:46:49,705 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:46:49,795 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:46:49,812 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:46:49,916 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:46:49,974 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:46:50,012 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:46:50,012 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:46:50,012 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:46:50,080 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:46:50,223 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:46:50,283 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:46:50,325 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:46:50,342 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:46:50,348 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:46:50,406 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:46:50,559 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:46:50,597 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:46:50,637 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:46:50,666 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:46:50,666 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:46:50,805 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:46:50,822 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:46:50,922 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:46:50,922 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:46:50,945 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:46:51,029 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:46:51,035 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:46:51,185 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:46:51,185 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:46:51,246 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:46:51,318 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:46:51,394 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:46:51,425 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:46:51,441 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:46:51,564 - INFO - Load reported to Load Balancer
+2025-03-17 04:46:51,572 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:46:51,578 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:46:51,596 - INFO - Received Compute request of type 1 with n = 1000000
+2025-03-17 04:48:17,184 - INFO - Worker service definition file created
+2025-03-17 04:48:17,241 - INFO - Worker service registered with consul
+2025-03-17 04:48:17,247 - INFO - Worker 4 server started
+2025-03-17 04:48:17,258 - INFO - Woker 4 registered with Load Balancer
+2025-03-17 04:48:17,259 - INFO - Load Reporting thread started
+2025-03-17 04:48:18,272 - INFO - Load reported to Load Balancer
+2025-03-17 04:48:19,721 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,727 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,732 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,736 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,741 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,746 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,752 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,757 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,761 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,767 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,772 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,778 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,783 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,788 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,792 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,797 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,801 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,805 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,808 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,809 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,809 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,812 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,813 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,814 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,814 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,816 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,816 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,818 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,818 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,820 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,820 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,821 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,822 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,824 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,824 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,824 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,825 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,827 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,827 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,828 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,829 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,830 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,831 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,832 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,832 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,833 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,834 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,835 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,836 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,837 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,838 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,840 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,840 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,840 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,842 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,842 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,844 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,845 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,845 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,846 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,847 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,848 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,849 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,850 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,851 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,852 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,852 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,854 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,855 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,855 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,856 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,857 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,859 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,859 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,860 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,860 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,863 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,863 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,864 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,865 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,865 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,867 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,868 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,868 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,869 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,870 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,871 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,873 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,873 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,874 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,875 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,875 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,878 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,878 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,879 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,879 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,880 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,882 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,883 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,883 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,884 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,884 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,887 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,887 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,888 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,888 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,889 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,891 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,891 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,892 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,893 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,894 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,894 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,896 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,897 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,897 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,898 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,899 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,901 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,901 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,902 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,902 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,904 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,905 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,905 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,906 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,907 - INFO - Received Compute request of type 1 with n = 1000
+2025-03-17 04:48:19,908 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:35,648 - INFO - Worker service definition file created
+2025-04-19 14:34:35,712 - INFO - Worker service registered with consul
+2025-04-19 14:34:35,717 - INFO - Worker 4 server started
+2025-04-19 14:34:35,730 - INFO - Woker 4 registered with Load Balancer
+2025-04-19 14:34:35,731 - INFO - Load Reporting thread started
+2025-04-19 14:34:36,743 - INFO - Load reported to Load Balancer
+2025-04-19 14:34:38,353 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,356 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,360 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,360 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,362 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,365 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,365 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,366 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,366 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,367 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,369 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,369 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,370 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,370 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,371 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,373 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,373 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,373 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,374 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,374 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,376 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,376 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,377 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,377 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,378 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,380 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,380 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,380 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,381 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,381 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,383 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,383 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,384 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,384 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,385 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,387 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,388 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,388 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,388 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,389 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,391 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,391 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,392 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,392 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,393 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,395 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,395 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,396 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,396 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,397 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,399 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,399 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,400 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,400 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,401 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,402 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,403 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,404 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,404 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,405 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,406 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,406 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,407 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,409 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,409 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,410 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,410 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,411 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,412 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,413 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,414 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,415 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,415 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,415 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,417 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,417 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,418 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,419 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,419 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,420 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,421 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,422 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,423 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,424 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,424 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,425 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,426 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,426 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,427 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,428 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,429 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,429 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,430 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,431 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,432 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,432 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,433 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,434 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,434 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,436 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,436 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,437 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,438 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,438 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,440 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,441 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,441 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,441 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,442 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,443 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,445 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,446 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,446 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,447 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,447 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,448 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,449 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,450 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,451 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,451 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,452 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,453 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,454 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,455 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,456 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,456 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:34:38,457 - INFO - Received Compute request of type 1 with n = 1000
+2025-04-19 14:35:33,998 - INFO - Worker service definition file created
+2025-04-19 14:35:34,044 - INFO - Worker service registered with consul
+2025-04-19 14:35:34,048 - INFO - Worker 4 server started
+2025-04-19 14:35:34,059 - INFO - Woker 4 registered with Load Balancer
+2025-04-19 14:35:34,059 - INFO - Load Reporting thread started
+2025-04-19 14:35:35,072 - INFO - Load reported to Load Balancer
+2025-04-19 14:35:37,084 - INFO - Load reported to Load Balancer
+2025-04-19 14:35:39,093 - INFO - Load reported to Load Balancer
+2025-04-19 14:35:41,102 - INFO - Load reported to Load Balancer
+2025-04-19 14:35:41,344 - INFO - Received Compute request of type 1 with n = 1000000
+2025-04-19 14:37:23,988 - INFO - Worker service definition file created
+2025-04-19 14:37:24,035 - INFO - Worker service registered with consul
+2025-04-19 14:37:24,040 - INFO - Worker 4 server started
+2025-04-19 14:37:24,052 - INFO - Woker 4 registered with Load Balancer
+2025-04-19 14:37:24,052 - INFO - Load Reporting thread started
+2025-04-19 14:37:25,065 - INFO - Load reported to Load Balancer
+2025-04-19 14:37:26,302 - INFO - Received Compute request of type 1 with n = 1000000
+2025-04-19 14:37:26,364 - INFO - Received Compute request of type 1 with n = 1000000
+2025-04-19 14:37:26,364 - INFO - Received Compute request of type 1 with n = 1000000
+2025-04-19 14:37:26,370 - INFO - Received Compute request of type 1 with n = 1000000
+2025-04-19 14:37:26,474 - INFO - Received Compute request of type 1 with n = 1000000
+2025-04-19 14:37:26,504 - INFO - Received Compute request of type 1 with n = 1000000
+2025-04-19 14:37:26,570 - INFO - Received Compute request of type 1 with n = 1000000
+2025-04-19 14:37:26,698 - INFO - Received Compute request of type 1 with n = 1000000
+2025-04-19 14:37:26,731 - INFO - Received Compute request of type 1 with n = 1000000
+2025-04-19 14:37:26,771 - INFO - Received Compute request of type 1 with n = 1000000
+2025-04-19 14:37:26,814 - INFO - Received Compute request of type 1 with n = 1000000
+2025-04-19 14:37:26,925 - INFO - Received Compute request of type 1 with n = 1000000
+2025-04-19 14:37:27,021 - INFO - Received Compute request of type 1 with n = 1000000
+2025-04-19 14:37:27,021 - INFO - Received Compute request of type 1 with n = 1000000
+2025-04-19 14:37:27,069 - INFO - Received Compute request of type 1 with n = 1000000
+2025-04-19 14:37:27,111 - INFO - Received Compute request of type 1 with n = 1000000
+2025-04-19 14:37:27,134 - INFO - Load reported to Load Balancer
+2025-04-19 14:37:27,146 - INFO - Received Compute request of type 1 with n = 1000000

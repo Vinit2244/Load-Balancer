@@ -1,0 +1,1 @@
+{"service": {"name": "load-listener", "id": "ll", "port": 50052, "check": {"http": "http://localhost:50052/health", "interval": "1s"}}}

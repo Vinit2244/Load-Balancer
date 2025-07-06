@@ -1,0 +1,43 @@
+syntax = "proto3";
+
+package lb;
+
+service LB {
+    rpc RegisterWorker(RegisterWorkerRequest) returns (RegisterWorkerResponse) {}
+    rpc GetServer(GetServerRequest) returns (GetServerResponse) {}
+}
+
+message RegisterWorkerRequest {
+    int32 id = 1;
+    string ip = 2;
+    int32 port = 3;
+}
+
+message RegisterWorkerResponse {
+    int32 err_code = 1;
+    string msg = 2;
+}
+
+message GetServerRequest {}
+
+message GetServerResponse {
+    int32 err_code = 1;
+    string msg = 2;
+    string ip = 3;
+    int32 port = 4;
+    int32 id = 5;
+}
+
+service LoadListener {
+    rpc ReportLoad(ReportLoadRequest) returns (ReportLoadResponse) {}
+}
+
+message ReportLoadRequest {
+    int32 id = 1;
+    float load = 2;
+}
+
+message ReportLoadResponse {
+    int32 err_code = 1;
+    string msg = 2;
+}

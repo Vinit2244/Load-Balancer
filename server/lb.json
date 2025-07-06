@@ -1,0 +1,1 @@
+{"service": {"name": "load-balancer", "id": "lb", "port": 50051, "check": {"http": "http://localhost:50051/health", "interval": "1s"}}}

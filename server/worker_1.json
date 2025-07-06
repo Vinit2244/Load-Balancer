@@ -1,0 +1,1 @@
+{"service": {"name": "worker", "id": "w-1", "port": 50053, "check": {"http": "http://localhost:50053/health", "interval": "1s"}}}
